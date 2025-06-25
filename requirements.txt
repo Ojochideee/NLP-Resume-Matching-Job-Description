@@ -1,7 +1,2 @@
-reqs = '''
-gradio
-openai
 nltk
-'''
-with open('requirements.txt', 'w') as f:
-    f.write(reqs)
+gradio
